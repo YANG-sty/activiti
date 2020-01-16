@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="activiti">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/util/activiti" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/util/activiti" recursive="false" />
+  </library>
+</component>
